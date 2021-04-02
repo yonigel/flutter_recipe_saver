@@ -1,0 +1,12 @@
+{
+  "recipes": [
+    {
+      "name": "first one",
+      "url": "www.bla.com"
+    },
+    {
+      "name": "second",
+      "url": "second.com"
+    }
+  ]
+}
